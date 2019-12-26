@@ -1,16 +1,16 @@
 # calculator
 
-## Project setup
+## install dependencies
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### then run for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### you can build it into a production too
 ```
 npm run build
 ```
@@ -20,5 +20,4 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Go Test =)

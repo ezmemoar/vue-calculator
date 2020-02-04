@@ -1,5 +1,8 @@
 # calculator
 
+## Requirement
+- npm
+
 ## install dependencies
 ```
 npm install
